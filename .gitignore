@@ -21,3 +21,7 @@ Thumbs.db
 
 # npm package lock file (if you don't want to track it)
 package-lock.json
+
+# dev container
+.devcontainer/
+.yarn/
