@@ -25,3 +25,5 @@ package-lock.json
 # dev container
 .devcontainer/
 .yarn/
+yarn.lock
+.next
