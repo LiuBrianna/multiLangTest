@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# TypeScript typings
+*.d.ts
+
+# Logs
+*.log
+
+# IDE/editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (if you don't want to track it)
+package-lock.json
